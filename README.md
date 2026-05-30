@@ -2,6 +2,8 @@
 
 ## Overview
 
+link: https://solomonskywalker.github.io/Data-Analysis-and-Visualization
+
 This repository contains data analysis and visualization projects developed during my data science studies. The projects focus on data cleaning, exploratory data analysis (EDA), statistical analysis, and data visualization using Python and Jupyter Notebooks.
 
 ## Viewing the Projects
